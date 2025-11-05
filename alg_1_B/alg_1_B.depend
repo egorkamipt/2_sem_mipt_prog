@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690972786 source:c:\users\name\onedrive\Документы\programming\sem_2_mipt\alg_1_b\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
