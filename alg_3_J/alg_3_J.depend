@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692435210 source:c:\users\name\onedrive\Документы\programming\sem_2_mipt\alg_3_j\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+

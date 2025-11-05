@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692440886 source:c:\users\name\onedrive\Документы\programming\sem_2_mipt\alg_3_k\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
