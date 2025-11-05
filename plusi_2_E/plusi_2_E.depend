@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691762686 source:c:\users\name\onedrive\Документы\programming\sem_2_mipt\plusi_2_e\main.cpp
+	<iostream>
+	<unordered_map>
+
